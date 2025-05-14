@@ -40,7 +40,7 @@ Por fim, acesse `WineOrderClient` e execute a classe `ApplicationClient2`. O cli
 
 ## 🛠 Tecnologias utilizadas
 
-- Java 17+
+- Java 17
 - Maven
 - Jakarta JAX-WS (`jaxws-rt`)
 - SOAP (RPC Style)
@@ -50,7 +50,7 @@ Por fim, acesse `WineOrderClient` e execute a classe `ApplicationClient2`. O cli
 
 ## 👩‍👩‍👧 Integrantes 
 
-Aline Fernandes - RM 97966
+Aline Fernandes - RM97966
 
 Camilly Ishida - RM551474
 
